@@ -1,0 +1,19 @@
+body {
+  background-color: #546866;
+}
+footer {
+  padding: .4em;
+  background-color: #4986B2
+}
+
+.navigation {
+  background-color: #4986B2 ;
+  padding: 1em;
+  color: #DBE9F3;
+  font-size: 1em;
+  font-weight: 1000;
+}
+#heading {
+  padding: 1em;
+  background-color: #DBE9F3;
+}
