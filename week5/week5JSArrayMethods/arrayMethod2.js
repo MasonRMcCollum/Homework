@@ -1212,5 +1212,5 @@ const data = [
 const user9td = data.filter(user => user.userId === 9);
 console.log(user9td);
 // const dni = data.filter(user => user.userId === 9);
-const user9incom = data.filter(user => user.completed, 0).length;
+const user9incom = user9td.filter(user => user.completed, 0).length;
 console.log(user9incom);

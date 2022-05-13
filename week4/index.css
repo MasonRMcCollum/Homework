@@ -17,3 +17,8 @@ footer {
   padding: 1em;
   background-color: #DBE9F3;
 }
+ol > h3 {
+  padding: .70em;
+  font-stretch: expanded;
+  color: red
+}
